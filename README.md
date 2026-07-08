@@ -3,7 +3,7 @@
 
 <div>
       <h1>
-  Hi 👋 
+  Hey what's up!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36px"/>
       </h1>
 </div>      
