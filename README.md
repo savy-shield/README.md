@@ -3,7 +3,7 @@
 
 <div>
       <h1>
-  Hola! 
+  Hi 👋 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36px"/>
       </h1>
 </div>      
@@ -25,26 +25,11 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=docker&logoColor=black"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Kubernetes-FCC624?style=for-the-badge&logo=kubernetes&logoColor=black"/>
-  </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </a>
+  
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Sql-4EA926?style=for-the-badge&logo=sql&logoColor=white"/>
   </a>
 </div>
-    
-
- 
- 
 
 <div align="center" style="display: inline-block">
 </div>
