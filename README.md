@@ -8,7 +8,7 @@
 
 <br>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=savy-threatlab&theme=dark)](https://github.com/savy-threatlab)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=savy-shield&theme=dark)](https://github.com/savy-threatlab)
 
 </div>
 
